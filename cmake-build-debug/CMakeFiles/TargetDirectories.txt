@@ -1,0 +1,3 @@
+/Users/patrikluks/Library/CloudStorage/OneDrive-Středníškolaprůmyslováaumělecká,Opava,příspěvkováorganizace/PRP-TVORBA HESLA/cmake-build-debug/CMakeFiles/PRP_TVORBA_HESLA.dir
+/Users/patrikluks/Library/CloudStorage/OneDrive-Středníškolaprůmyslováaumělecká,Opava,příspěvkováorganizace/PRP-TVORBA HESLA/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/patrikluks/Library/CloudStorage/OneDrive-Středníškolaprůmyslováaumělecká,Opava,příspěvkováorganizace/PRP-TVORBA HESLA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
